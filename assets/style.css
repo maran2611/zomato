@@ -33,3 +33,30 @@ nav ul li a {
     text-decoration: none;
     color: rgb(0, 0, 0);
 }
+
+.zomato {
+    margin-left: 43%;
+    font-size: xx-large;
+    margin-top: 10%;
+}
+
+.zomcon {
+    margin-left: 28%;
+    font-size: xx-large;
+}
+
+.zominput {
+    margin-left: 28%;
+}
+
+.zominput input {
+    width: 635px;
+    height: 50px;
+    border-radius: 5px;
+    border: white;
+    box-shadow: 2px 2px 2px 2px grey;
+}
+
+.zominput input::placeholder {
+    font-size: large;
+}
