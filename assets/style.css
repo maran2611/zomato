@@ -45,7 +45,7 @@ nav ul li a {
 }
 
 .zomato {
-    margin-left: 40%;
+    margin-left: 38%;
     font-size: 40px;
     margin-top: 10%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -125,8 +125,95 @@ nav ul li a {
     border-radius: 25px;
 }
 
+
+/*page2*/
+
 .page2 {
-    margin-top: 60%;
-    margin-left: 5%;
+    margin-top: 65%;
+    margin-left: 7%;
     position: absolute;
+    width: 100%;
+}
+
+.seplink {
+    margin-left: 10%;
+    color: rgb(255, 128, 0);
+}
+
+.collection {
+    position: absolute;
+    margin-top: 2%;
+    display: inline-flex;
+}
+
+.grtcafe {
+    height: 300px;
+    width: 250px;
+}
+
+.grtcafe img {
+    height: 300px;
+    width: 250px;
+    border-radius: 25px;
+}
+
+.bliss {
+    height: 300px;
+    width: 250px;
+    margin-left: 5%;
+}
+
+.bliss img {
+    height: 300px;
+    width: 250px;
+    border-radius: 25px;
+}
+
+.Premium {
+    height: 300px;
+    width: 250px;
+    margin-left: 5%;
+}
+
+.Premium img {
+    height: 300px;
+    width: 250px;
+    border-radius: 25px;
+}
+
+.luxury {
+    height: 300px;
+    width: 250px;
+    margin-left: 5%;
+}
+
+.luxury img {
+    height: 300px;
+    width: 250px;
+    border-radius: 25px;
+}
+
+.grtcon,
+.blisscon,
+.precon,
+.luxcon {
+    color: #ffffff;
+    margin-top: -40%;
+    margin-left: 2%;
+}
+
+
+/*locations*/
+
+.location {
+    margin-top: 30%;
+}
+
+.titleloc h1 {
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.sepbold {
+    font-weight: bold;
 }
