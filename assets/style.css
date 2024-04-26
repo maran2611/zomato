@@ -217,3 +217,165 @@ nav ul li a {
 .sepbold {
     font-weight: bold;
 }
+
+.local1,
+.local2,
+.local3 {
+    border: 1px solid black;
+    height: 80px;
+    width: 430px;
+    border-radius: 25px;
+    box-shadow: 2px 2px 2px 2px grey;
+}
+
+.local2 {
+    margin-left: 15%;
+}
+
+.local3 {
+    margin-left: 20%;
+}
+
+.localities1 {
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+.localities1 p {
+    margin-top: -7%;
+}
+
+.localities2 p {
+    margin-top: -7%;
+}
+
+.localities1 p,
+h2 {
+    margin-left: 10%;
+}
+
+.localities2 p,
+h2 {
+    margin-left: 10%;
+}
+
+.local4,
+.local5,
+.local6 {
+    border: 1px solid black;
+    height: 80px;
+    width: 430px;
+    border-radius: 25px;
+    box-shadow: 2px 2px 2px 2px grey;
+}
+
+.localities2 {
+    display: inline-flex;
+    justify-content: space-between;
+    margin-top: 2%;
+}
+
+.local5 {
+    margin-left: 15%;
+}
+
+.local6 {
+    margin-left: 20%;
+}
+
+.getapp {
+    width: 100%;
+    height: 700px;
+}
+
+.getzompic {
+    height: 200px;
+    width: 250px;
+    margin-top: 10%;
+    margin-left: 12%;
+}
+
+.getzomcontent {
+    margin-left: 33%;
+    margin-top: -20%;
+}
+
+.getzomcontent h1 {
+    font-size: 40px;
+}
+
+.getzomcontent p,
+label {
+    font-size: 20px;
+}
+
+.getzom1,
+.getzom2 {
+    height: 50px;
+    width: 150px;
+}
+
+.explore {
+    width: 100%;
+    height: 100%;
+    margin-top: 50%;
+}
+
+.explore1,
+.explore2,
+.explore3 {
+    border: 1px solid black;
+    height: 55px;
+    width: 1200px;
+    border-radius: 12px;
+    box-shadow: 1px 1px 1px 1px grey;
+}
+
+.explore2 {
+    margin-top: 2%;
+}
+
+.explore3 {
+    margin-top: 2%;
+}
+
+.exp1,
+.exp2,
+.exp3 {
+    margin-left: -10%;
+    margin-top: -0.5%;
+}
+
+.footer {
+    margin-top: 10%;
+    height: 500px;
+    width: 100%;
+    margin-left: -6.5%;
+    background-color: rgb(250, 250, 250);
+}
+
+.topfooter {
+    display: inline-flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.topfoot1 {
+    margin-left: 5%;
+}
+
+.topfoot2 {
+    margin-left: 40%;
+}
+
+.topfoot3 {
+    margin-left: -22%;
+}
+
+.topfoot2,
+.topfoot3 {
+    border: 1px solid black;
+    width: 100px;
+    height: 40px;
+    border-radius: 12px;
+}
